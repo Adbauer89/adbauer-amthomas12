@@ -1,0 +1,22 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "390375": {
+        "pageid": 390375,
+        "ns": 0,
+        "title": "Ball State University",
+        "revisions": [
+          {
+            "revid": 915455707,
+            "parentid": 915380330,
+            "minor": "",
+            "user": "Monkbot",
+            "timestamp": "2019-09-13T11:10:41Z",
+            "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (11\u00d7) / removed (0\u00d7) deprecated |dead-url= and |deadurl= with |url-status=;"
+          }
+        ]
+      }
+    }
+  }
+}

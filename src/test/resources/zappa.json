@@ -1,0 +1,212 @@
+{
+  "continue": {
+    "rvcontinue": "20190722005717|907309138",
+    "continue": "||"
+  },
+  "query": {
+    "normalized": [
+      {
+        "from": "zappa",
+        "to": "Zappa"
+      }
+    ],
+    "redirects": [
+      {
+        "from": "Zappa",
+        "to": "Frank Zappa"
+      }
+    ],
+    "pages": {
+      "10672": {
+        "pageid": 10672,
+        "ns": 0,
+        "title": "Frank Zappa",
+        "revisions": [
+          {
+            "revid": 915632711,
+            "parentid": 915609761,
+            "user": "DVdm",
+            "timestamp": "2019-09-14T08:14:03Z",
+            "comment": "Reverted to revision 914586087 by [[Special:Contributions/Autumn Hawk|Autumn Hawk]] ([[User talk:Autumn Hawk|talk]]): Not in the cited sources ([[WP:TW|TW]])"
+          },
+          {
+            "revid": 915609761,
+            "parentid": 915561122,
+            "user": "86.13.118.247",
+            "anon": "",
+            "timestamp": "2019-09-14T00:36:10Z",
+            "comment": ""
+          },
+          {
+            "revid": 915561122,
+            "parentid": 915560688,
+            "user": "86.13.118.247",
+            "anon": "",
+            "timestamp": "2019-09-14T00:36:10Z",
+            "comment": ""
+          },
+          {
+            "revid": 915560688,
+            "parentid": 915560637,
+            "user": "86.13.118.247",
+            "anon": "",
+            "timestamp": "2019-09-14T00:31:36Z",
+            "comment": ""
+          },
+          {
+            "revid": 915560637,
+            "parentid": 915560528,
+            "user": "86.13.118.247",
+            "anon": "",
+            "timestamp": "2019-09-14T00:31:17Z",
+            "comment": ""
+          },
+          {
+            "revid": 915560528,
+            "parentid": 914586087,
+            "user": "86.13.118.247",
+            "anon": "",
+            "timestamp": "2019-09-14T00:30:10Z",
+            "comment": ""
+          },
+          {
+            "revid": 914586087,
+            "parentid": 912685188,
+            "user": "Autumn Hawk",
+            "timestamp": "2019-09-08T06:46:48Z",
+            "comment": ""
+          },
+          {
+            "revid": 912685188,
+            "parentid": 912684867,
+            "user": "50.110.39.138",
+            "anon": "",
+            "timestamp": "2019-08-27T06:31:10Z",
+            "comment": "/* Digital medium and last tour */"
+          },
+          {
+            "revid": 912684867,
+            "parentid": 912684797,
+            "user": "50.110.39.138",
+            "anon": "",
+            "timestamp": "2019-08-27T06:28:10Z",
+            "comment": "/* Digital medium and last tour */"
+          },
+          {
+            "revid": 912684797,
+            "parentid": 912684684,
+            "user": "50.110.39.138",
+            "anon": "",
+            "timestamp": "2019-08-27T06:27:25Z",
+            "comment": "/* Digital medium and last tour */"
+          },
+          {
+            "revid": 912684684,
+            "parentid": 912180727,
+            "user": "50.110.39.138",
+            "anon": "",
+            "timestamp": "2019-08-27T06:26:09Z",
+            "comment": "/* Digital medium and last tour */"
+          },
+          {
+            "revid": 912180727,
+            "parentid": 911290113,
+            "user": "2604:CA00:150:22A:62C4:274A:9A8B:CCFC",
+            "anon": "",
+            "timestamp": "2019-08-23T19:30:20Z",
+            "comment": "/* Drugs */"
+          },
+          {
+            "revid": 911290113,
+            "parentid": 911289770,
+            "user": "Anonymous from the 21st century",
+            "timestamp": "2019-08-17T22:01:07Z",
+            "comment": "/* Anti-censorship */"
+          },
+          {
+            "revid": 911289770,
+            "parentid": 911289168,
+            "user": "Anonymous from the 21st century",
+            "timestamp": "2019-08-17T21:57:57Z",
+            "comment": "/* Synclavier */"
+          },
+          {
+            "revid": 911289168,
+            "parentid": 911077266,
+            "user": "Anonymous from the 21st century",
+            "timestamp": "2019-08-17T21:51:30Z",
+            "comment": "/* Childhood */"
+          },
+          {
+            "revid": 911077266,
+            "parentid": 909056032,
+            "minor": "",
+            "user": "JJMC89 bot III",
+            "timestamp": "2019-08-16T10:55:55Z",
+            "comment": "Moving [[:Category:Warner Bros. Records artists]] to [[:Category:Warner Records artists]] per [[Wikipedia:Categories for discussion/Log/2019 August 8#Category:Warner Bros. Records]]"
+          },
+          {
+            "revid": 909056032,
+            "parentid": 908508831,
+            "user": "InternetArchiveBot",
+            "timestamp": "2019-08-02T19:38:23Z",
+            "comment": "Bluelinking 7 books for [[WP:V|verifiability]]. #IABot (v2.1alpha2)"
+          },
+          {
+            "revid": 908508831,
+            "parentid": 908180665,
+            "minor": "",
+            "user": "RHodnett",
+            "timestamp": "2019-07-30T05:12:47Z",
+            "comment": "/* Producing */ Italicized album title."
+          },
+          {
+            "revid": 908180665,
+            "parentid": 908108410,
+            "user": "Mitch Ames",
+            "timestamp": "2019-07-28T00:41:22Z",
+            "comment": "Remove supercategory of existing diffusing subcategory per [[WP:SUBCAT]]"
+          },
+          {
+            "revid": 908108410,
+            "parentid": 908022623,
+            "user": "InternetArchiveBot",
+            "timestamp": "2019-07-27T14:04:18Z",
+            "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta16) ([[User:Cyberpower678|Cyberpower678]])"
+          },
+          {
+            "revid": 908022623,
+            "parentid": 908022581,
+            "minor": "",
+            "user": "Dan56",
+            "timestamp": "2019-07-26T21:53:50Z",
+            "comment": "/* First musical interests */"
+          },
+          {
+            "revid": 908022581,
+            "parentid": 908021910,
+            "minor": "",
+            "user": "Dan56",
+            "timestamp": "2019-07-26T21:53:28Z",
+            "comment": "/* First musical interests */"
+          },
+          {
+            "revid": 908021910,
+            "parentid": 908019072,
+            "user": "Dan56",
+            "timestamp": "2019-07-26T21:46:41Z",
+            "comment": "I looked up the book and what it actually says on that page."
+          },
+          {
+            "revid": 908019072,
+            "parentid": 907973041,
+            "user": "2600:100A:B023:B234:39A0:A503:DB97:BFB",
+            "anon": "",
+            "timestamp": "2019-07-26T21:20:04Z",
+            "comment": "Fixed inaccuracies"
+          }
+        ]
+      }
+    }
+  }
+}
